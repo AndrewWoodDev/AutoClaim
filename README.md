@@ -13,10 +13,10 @@ This app uses Computer Vision AI to help homeowners scan, value, and protect the
 
 Sample output from the application:
 
-![Upload_Image](assets/upload_img.png)  
+![Upload_Image](autoclaim/assets/upload_img.png)  
 *Dashboard preview*
 
-![Result](assets/result.png)  
+![Result](autoclaim/assets/result.png)  
 *Result preview*
 
 ## Tech Stack
